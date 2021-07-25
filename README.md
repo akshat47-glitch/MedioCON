@@ -1,5 +1,6 @@
 # MEDIOCON
-An App a Day Keeps a Doctor away :wink:
+
+A Project by Akshat Amrit and Navonil Das
 
 
 | Table of Contents |
