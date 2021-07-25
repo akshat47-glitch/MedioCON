@@ -3,10 +3,8 @@
 A Project by Akshat Amrit and Navonil Das
 
 
-| Table of Contents |
-|--|
-
-
+## APK File
+- [Download APK File from here](https://github.com/HAC-2020/rudrabarad/blob/master/Medi%20Consult.apk)
 
 ## Abstract
 This project is based on the Mobile Application for Online Consultancy for people all around the world. This App basically allows us to Consult ourselves while sitting at our Home.
